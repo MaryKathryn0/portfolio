@@ -1,0 +1,15 @@
+.leftColAbout {
+    background: #f2ece9;
+}
+.rightColAbout {
+    background: #f2ece9;
+}
+
+.main-Portfolio {
+    background-image: url("./helloWorld.png");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
