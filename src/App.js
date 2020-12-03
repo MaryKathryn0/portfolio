@@ -7,13 +7,14 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import "./App.css"
 
 // Creating App function
 // Exporting App Function to use at index.js
 export default function App() {
   return (
     <Router>
-      <div className="container-fluid px-0">
+      <div className="container-fluid px-0 App">
         <Switch>
           <Route path="/portfolio">
             <Portfolio />

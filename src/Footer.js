@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Footer() {
     return (
-        <div className="fixed-bottom">
+        <div className="">
             <hr />
             <div className="row socialIcon">
               <a href="https://drive.google.com/file/d/0BwzqtayaRnd-Qy1sT0dpb0R5OFpiUkk4QzNzZUhoT05nQnVZ/view?usp=sharing" className="text-dark col text-center"><i className="fas fa-cat fa-2x text-light"></i></a>

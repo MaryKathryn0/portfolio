@@ -1,15 +1,27 @@
-.leftColAbout {
+/* .leftColAbout {
     background: #f2ece9;
 }
 .rightColAbout {
     background: #f2ece9;
-}
+} */
 
-.main-Portfolio {
-    background-image: url("./helloWorld.png");
+.parallax {
     height: 100vh;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.plxImg1 {
+    background-image: url("./hwforward.jpg");
+}
+
+.plxImg2 {
+    background-image: url("./hwreverse.jpg");
+}
+
+a {
+    color: rgb(104, 109, 114)
+}
+

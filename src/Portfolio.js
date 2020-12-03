@@ -6,15 +6,17 @@ import {
     Route,
     Link
   } from "react-router-dom";
-  import Footer from './Footer';
   import './App.css';
 
 export default function Portfolio() {
     return (
+        
         <div className="container py-5 my-5 main-Portfolio">
+            {/* <button className="btn btn-dark" class="d-flex justify-content-ends"><Link to="/">Back to About Me</Link></button> */}
+            {/* <h1>Portfolio</h1> */}
             <div className="row">
-                <h1>Portfolio</h1>
-                <button className="btn btn-dark btn-lg btn-block"><Link to="/">Back to About Me</Link></button>
+                
+                
                 <div className="col-md-6 col-lg-4 col-xl-3">
                     <Card title="CodeTube"  imgLink="https://images.unsplash.com/photo-1517909277968-946dd06adf1e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80"
                      gitHubLink="https://github.com/MaryKathryn0/Project2" />
@@ -41,7 +43,6 @@ export default function Portfolio() {
                 </div>
                 
             </div>
-            <Footer />
         </div>
     )
 }
