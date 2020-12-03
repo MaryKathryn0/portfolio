@@ -25,3 +25,8 @@ a {
     color: rgb(104, 109, 114)
 }
 
+.social {
+    position: relative;
+    margin-top: 320px;
+}
+/* adjust margin if i add text to about me */

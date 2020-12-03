@@ -10,6 +10,7 @@ import Footer from './Footer';
 import Portfolio from './Portfolio';
 import './App.css';
 
+
 export default function About() {
   return (
     <div className="row bg-danger">
@@ -25,11 +26,16 @@ export default function About() {
         <div className="page-header py-5">
           <h1>Mary Kathryn Holt</h1>
           <p>
-            Interest: paper, television, cats, robot vacuum cleaners, snacks,
-            cats, sharpies of all colors, cake, photoshop, xc234olkij(that was a cat stepping on keyboard)
+            Interest: paper, television, cats, 
+            robot vacuum cleaners, snacks,
+            cats, sharpies of all colors, cake, 
+            photoshop, xc234olkij(that was a cat stepping on keyboard)
             sarcasm, aliens, did I mention cats?, meow meow meow.
+            the end
           </p>
+          <div className="social">
           <Footer />
+          </div>
           {/* <button className="btn btn-dark btn-lg btn-block"><Link to="/portfolio">View Portfolio</Link></button> */}
         </div>
       </div>
