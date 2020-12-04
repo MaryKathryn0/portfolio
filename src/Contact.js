@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
 
-export default function Contact() {
+
+const Example = (props) => {
     return (
-        <div>
-            This is a contact page.
-        </div>
-    )
-}
+        <div className="container-fluid aboutText">
+                <h1 class="display-4 mx-auto">Contact</h1>
+                <p class="mx-auto">Email: msmarykathrynholt@gmail.com</p>
+            </div>
+        
+    );
+};
+
+export default Example;

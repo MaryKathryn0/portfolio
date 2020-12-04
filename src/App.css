@@ -1,9 +1,4 @@
-/* .leftColAbout {
-    background: #f2ece9;
-}
-.rightColAbout {
-    background: #f2ece9;
-} */
+
 
 .parallax {
     height: 100vh;
@@ -27,14 +22,15 @@ a {
 
 .social {
     position: relative;
-    margin-top: 320px;
+    margin-top: 450px;
 }
 /* adjust margin if i add text to about me */
 
 .aboutMe {
-    background-color: rgb(75, 77, 78)
+    background-color: #242223
 }
 
-.aboutMe {
-    background-color: rgb(75, 77, 78)
+.aboutText {
+    color: rgba(224, 221, 221, 0.822);
 }
+
