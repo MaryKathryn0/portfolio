@@ -8,7 +8,7 @@ const Example = (props) => {
   return (
     <div>
       <Card className="mb-3">
-        <CardImg top width="100%" src={props.imgLink} alt={props.title} />
+        <CardImg src={props.imgsrc} alt={props.title} />
         <CardBody>
           <CardTitle tag="h5">{props.title}</CardTitle>
           <CardSubtitle tag="h6" className="mb-2 text-muted">{props.subtitle}</CardSubtitle>

@@ -13,13 +13,13 @@ import './App.css';
 
 export default function About() {
   return (
-    <div className="row bg-danger">
+    <div className="row aboutMe">
       {/* part 1 */}
       <div className="col-12 plxImg1 parallax"></div>
       {/* part 2 */}
       {/* Image on left */}
-      <div className="col-md-4">
-        <img src={AboutImage} alt="Mary Kathryn Holt" width="100%" height="100%" />
+      <div className="col-md-5">
+        <img src={AboutImage} alt="Mary Kathryn Holt" width="100%"  />
       </div>
       {/* Content on right */}
       <div className="col-md-7">
