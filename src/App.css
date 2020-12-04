@@ -17,20 +17,19 @@
 }
 
 a {
-    color: rgb(104, 109, 114)
+    color: rgb(226, 226, 228)
 }
 
 .social {
     position: relative;
-    margin-top: 450px;
+    margin-top: 85px;
 }
 /* adjust margin if i add text to about me */
 
 .aboutMe {
-    background-color: #242223
+    background-color: #242223;
 }
 
 .aboutText {
-    color: rgba(224, 221, 221, 0.822);
+    color: rgb(214, 214, 214);
 }
-

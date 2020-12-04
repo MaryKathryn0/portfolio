@@ -26,20 +26,23 @@ export default function About() {
       {/* Content on right */}
       <div className="col-md-7">
         <div className="page-header aboutText py-5">
-          <h1>Mary Kathryn Holt</h1>
-          <p>
+          <h1 class="display-1">Mary Kathryn Holt</h1>
+          <p class="h1">
           <br></br>
           Classic Style
           <br></br>
+          <br></br>
           Designer
+          <br></br>
           <br></br>
           Minimilist
           <br></br>
+          <br></br>
           Unique
           <br></br>
-          Sarcastic
           <br></br>
-          Cat Lover
+          Sarcastic
+          
           </p>
           <div className="social">
             <Footer />
