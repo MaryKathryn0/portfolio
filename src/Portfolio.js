@@ -44,7 +44,7 @@ export default function Portfolio() {
                     gitHubLink="https://github.com/MaryKathryn0/BreakAway" />
                 </div>
                 <div className="col-md-6 col-lg-4 col-xl-3">
-                    <Card title="Horiseon Website Changes"  imgsrc={Pin} alt="Pin Wheel" 
+                    <Card title="Website Changes"  imgsrc={Pin} alt="Pin Wheel" 
                     gitHubLink="https://github.com/MaryKathryn0/Horiseon-Website-Changes"/>
                 </div>
                 

@@ -25,9 +25,9 @@ export default function About() {
       </div>
       {/* Content on right */}
       <div className="col-md-7">
-        <div className="page-header aboutText py-5">
-          <h1 class="display-1">Mary Kathryn Holt</h1>
-          <p class="h1">
+        <div className="page-header aboutText">
+          <h1>Mary Kathryn Holt</h1>
+          <p>
           <br></br>
           Classic Style
           <br></br>
@@ -35,7 +35,7 @@ export default function About() {
           Designer
           <br></br>
           <br></br>
-          Minimilist
+          Minimalist
           <br></br>
           <br></br>
           Unique

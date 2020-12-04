@@ -22,7 +22,7 @@ a {
 
 .social {
     position: relative;
-    margin-top: 85px;
+    margin-top: 205px;
 }
 /* adjust margin if i add text to about me */
 
@@ -32,4 +32,6 @@ a {
 
 .aboutText {
     color: rgb(214, 214, 214);
+
+
 }
