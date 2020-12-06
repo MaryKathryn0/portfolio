@@ -36,8 +36,8 @@ export default function Portfolio() {
             </div>
             <div className="row justify-content-center">
                 <div className="col-md-6 col-lg-4 col-xl-3">
-                    <Card title="JQuery Calculator"  imgsrc={Air} alt="Air Plane" 
-                     gitHubLink="https://github.com/MaryKathryn0/JQueryCalculator" />
+                    <Card title="Spooki Sushi"  imgsrc={Air} alt="Air Plane" 
+                     gitHubLink="https://github.com/MaryKathryn0/spookiSushi" />
                 </div>
                 <div className="col-md-6 col-lg-4 col-xl-3">
                     <Card title="Breakaway"  imgsrc={Ferris} alt="Ferris Wheel" 
